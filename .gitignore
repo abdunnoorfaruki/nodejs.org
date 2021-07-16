@@ -5,6 +5,7 @@ node_modules/
 npm-debug.log
 .npm/
 
+temp_auto_push.bat
 # OSX system files, the bane of our existence
 .DS_Store
 .AppleDouble
@@ -12,3 +13,5 @@ npm-debug.log
 
 # Netlify
 .netlify
+.gitignore
+branch_structure.json
